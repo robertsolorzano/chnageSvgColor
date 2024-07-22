@@ -50,6 +50,7 @@ def change_svg_color(input_directory, output_directory, new_color):
 
 input_directory = "images/icons"
 output_directory = "output"
-new_color = "#D900FF"  # Neon purple color in hex format
+# new_color = "#f28fac"  # Neon purple color in hex format
+new_color = "#aae9b2"  # Neon purple color in hex format
 
 change_svg_color(input_directory, output_directory, new_color)
