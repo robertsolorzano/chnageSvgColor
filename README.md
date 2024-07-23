@@ -1,4 +1,4 @@
-# SVG Color Changer for Zen-Weather App
+# SVG Color Changer ![License](https://img.shields.io/badge/License-MIT-teal.svg) 
 
 This project provides a Python script to change the color of SVG icons. It was created to solve an issue with the Zen-weather app, needing a quick way to change SVG values to match the desired color.
 
