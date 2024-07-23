@@ -2,6 +2,9 @@
 
 This project provides a Python script to change the color of SVG icons. It was created to solve an issue with the Zen-weather app, needing a quick way to change SVG values to match the desired color.
 
+![Icon-before](/assets/wi-day-sunny-before.svg)
+![Icon](/assets/wi-day-sunny.svg)
+
 ## Description
 
 The SVG Color Changer script is designed to traverse a directory of SVG files and change their fill and stroke colors to a specified color. This is particularly useful for customizing the appearance of icons to fit a specific theme or aesthetic, such as the neon purple color used in the Zen-weather app.
